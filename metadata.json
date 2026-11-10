@@ -1,0 +1,6 @@
+{
+  "name": "DroidWrap - Binary to Android APK Studio",
+  "description": "Package any native binary into a ready-to-install Android APK with a dedicated Start/Stop GUI, live terminal logs, foreground service, and zero CLI complexity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
